@@ -1,3 +1,4 @@
 <?php
-phpinfo();
+//to mi sie teraz nie przyda
+//phpinfo();
 ?>
